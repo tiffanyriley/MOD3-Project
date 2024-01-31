@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Daytime Engergizing Tea",
+        "price":"19.99",
+        "description": "Healthy Tea with Chamomile, Lavender, & Pepperment herbs. Lightly Energizes with the need of caffiene",
+        "ratings": 5.0,
+        "images": [{
+            "public_id": "products/HerbalTeas",
+            "url":  "http://www.google.com"
+        }],
+        "category": "Herbal Teas",
+        "numofReviews": 1,
+        "reviews": []
+
+
+
+    }
+]
