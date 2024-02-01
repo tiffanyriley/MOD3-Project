@@ -48,3 +48,37 @@ To run SheBrews Teas locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/tiffanyriley/mod3-project.git
+
+2. Set up the database:
+   Configure the backend to connect to your preferred database (e.g., MongoDB, MySQL).
+   Import the sample data if available.
+   
+3.   Configure environment variables:
+   Set up environment variables for API keys, database connections, and other sensitive information
+   Refer to the .env.example file for guidance.
+
+4. Run the application using npm start in the gitbash terminal.
+
+5. Access the application in your web browser at http://localhost:4000.
+
+
+Usage
+
+Visit SheBrews Teas to explore and purchase our premium herbal teas.
+Create a user account to enjoy personalized recommendations and a streamlined checkout process.
+
+Technologies Used
+
+Frontend: React.js
+Backend: Node.js, Express.js
+Database: MongoDB (or your preferred database)
+Authentication: JSON Web Tokens (JWT)
+Payment Processing: Stripe (or your preferred payment gateway)
+
+Contributing
+
+We welcome contributions! Feel free to open issues, submit pull requests, or provide feedback.
+
+License
+
+This project is licensed under the MIT License.
