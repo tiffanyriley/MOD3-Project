@@ -41,44 +41,32 @@ SheBrews Teas is an e-commerce platform dedicated to providing a curated selecti
   - SSL encryption for secure and private transactions.
   - Multiple payment options for a convenient shopping experience.
 
-## Getting Started
+## Learn More
 
-To run SheBrews Teas locally, follow these steps:
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/tiffanyriley/mod3-project.git
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-2. Set up the database:
-   Configure the backend to connect to your preferred database (e.g., MongoDB, MySQL).
-   Import the sample data if available.
-   
-3.   Configure environment variables:
-   Set up environment variables for API keys, database connections, and other sensitive information
-   Refer to the .env.example file for guidance.
+### Code Splitting
 
-4. Run the application using npm start in the gitbash terminal.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-5. Access the application in your web browser at http://localhost:4000.
+### Analyzing the Bundle Size
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-Usage
+### Making a Progressive Web App
 
-Visit SheBrews Teas to explore and purchase our premium herbal teas.
-Create a user account to enjoy personalized recommendations and a streamlined checkout process.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-Technologies Used
+### Advanced Configuration
 
-Frontend: React.js
-Backend: Node.js, Express.js
-Database: MongoDB (or your preferred database)
-Authentication: JSON Web Tokens (JWT)
-Payment Processing: Stripe (or your preferred payment gateway)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-Contributing
+### Deployment
 
-We welcome contributions! Feel free to open issues, submit pull requests, or provide feedback.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-License
+### `npm run build` fails to minify
 
-This project is licensed under the MIT License.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
