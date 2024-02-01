@@ -1,6 +1,6 @@
 const Product = require('../models/product')
 
-const ErrorHandler = require('../utils/errorHandler');
+const ErrorHandler = require('../utils/errorhandler');
 const catchAsyncErrors = require('../middlewares/catchAsyncErrors');
 const APIFeatures = require('../utils/apiFeatures')
 const cloudinary = require('cloudinary')
@@ -216,7 +216,6 @@ exports.createProductReview = catchAsyncErrors(async (req, res, next) => {
 })
 
 
-// Get Product Reviews   =>   /api/v1/reviews
 exports.getProductReviews = catchAsyncErrors(async (req, res, next) => {
     const product = await Product.findById(req.query.id);
 
@@ -226,7 +225,6 @@ exports.getProductReviews = catchAsyncErrors(async (req, res, next) => {
     })
 })
 
-// Delete Product Review   =>   /api/v1/reviews
 exports.deleteReview = catchAsyncErrors(async (req, res, next) => {
 
     const product = await Product.findById(req.query.productId);
