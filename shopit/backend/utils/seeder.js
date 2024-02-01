@@ -28,4 +28,4 @@ const seedProducts = async () => {
 
 seedProducts()
 
-createDatabase();
+
