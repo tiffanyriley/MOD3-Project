@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+# SheBrews Teas
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to SheBrews Teas – your destination for premium health teas and delicious herbal blends!
 
-## Available Scripts
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
 
-In the project directory, you can run:
+## Introduction
 
-### `npm start`
+SheBrews Teas is an e-commerce platform dedicated to providing a curated selection of health-enhancing herbal teas. We offer a wide range of handcrafted blends made from the finest organic ingredients, each designed to promote wellness and delight your taste buds.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **User Authentication:**
+  - Secure user accounts for a personalized shopping experience.
+  - Password hashing and encryption for enhanced security.
 
-### `npm test`
+- **Product Listings:**
+  - Explore our diverse catalog of health teas and herbal blends.
+  - Detailed product information, including ingredients, brewing instructions, and health benefits.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Shopping Cart:**
+  - Add products to your cart and seamlessly proceed to checkout.
+  - Easy-to-use interface for managing and reviewing your selected items.
 
-### `npm run build`
+- **Order Management:**
+  - Track your orders and stay updated on their status.
+  - Receive email notifications for order confirmations and shipment updates.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Admin Panel:**
+  - Manage product listings, inventory, and customer orders efficiently.
+  - Update product information and prices dynamically.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Secure Transactions:**
+  - SSL encryption for secure and private transactions.
+  - Multiple payment options for a convenient shopping experience.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Getting Started
 
-### `npm run eject`
+To run SheBrews Teas locally, follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/tiffanyriley/mod3-project.git
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. Set up the database:
+   Configure the backend to connect to your preferred database (e.g., MongoDB, MySQL).
+   Import the sample data if available.
+   
+3.   Configure environment variables:
+   Set up environment variables for API keys, database connections, and other sensitive information
+   Refer to the .env.example file for guidance.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+4. Run the application using npm start in the gitbash terminal.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+5. Access the application in your web browser at http://localhost:4000.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Usage
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Visit SheBrews Teas to explore and purchase our premium herbal teas.
+Create a user account to enjoy personalized recommendations and a streamlined checkout process.
 
-### Code Splitting
+Technologies Used
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Frontend: React.js
+Backend: Node.js, Express.js
+Database: MongoDB (or your preferred database)
+Authentication: JSON Web Tokens (JWT)
+Payment Processing: Stripe (or your preferred payment gateway)
 
-### Analyzing the Bundle Size
+Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+We welcome contributions! Feel free to open issues, submit pull requests, or provide feedback.
 
-### Making a Progressive Web App
+License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is licensed under the MSC License.
