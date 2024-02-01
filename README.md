@@ -1,6 +1,6 @@
 # SheBrews Teas
 
-Welcome to SheBrews Teas – your destination for premium health teas and delicious herbal blends!
+Welcome to SheBrews Teas – your destination for premium health teas and delicious herbal blends! Planning site located here: https://trello.com/b/B8V7YbfX/shebrewsteas-ecommerce-site.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -13,7 +13,7 @@ Welcome to SheBrews Teas – your destination for premium health teas and delici
 
 ## Introduction
 
-SheBrews Teas is an e-commerce platform dedicated to providing a curated selection of health-enhancing herbal teas. We offer a wide range of handcrafted blends made from the finest organic ingredients, each designed to promote wellness and delight your taste buds.
+SheBrews Teas is an e-commerce platform dedicated to providing a curated selection of health-enhancing herbal teas. Born out of a love for fresh, vibrant herbal teas, wgie offer a wide range of handcrafted blends made from the finest organic ingredients, each designed to promote wellness and delight your taste buds.
 
 ## Features
 
